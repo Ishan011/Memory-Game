@@ -35,11 +35,11 @@ _Each Turn:-_
       <li>0-12 moves : 3 stars</li>
       <li>13-16 moves : 2 stars</li>
       <li>moves>16 : 1 star</li>
-
+    </ul>
   <li>Scorecard will be displayed once the player wins the game.</li>
 
   <li>There's a restart button next to timer for replaying the game.</li>
-
+</ol>
 ## Dependencies
 This game uses Dave Gandy's Font Awesome! * Font Awesome 4.6.1 by @davegandy - http://fontawesome.io 
 .Also uses GoogleAPIs to make use of Google Fonts.
