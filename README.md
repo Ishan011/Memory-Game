@@ -40,6 +40,7 @@ _Each Turn:-_
 
   <li>There's a restart button next to timer for replaying the game.</li>
 </ol>
+
 ## Dependencies
 This game uses Dave Gandy's Font Awesome! * Font Awesome 4.6.1 by @davegandy - http://fontawesome.io 
 .Also uses GoogleAPIs to make use of Google Fonts.
